@@ -1,0 +1,13 @@
+__pycache__/
+venv/
+annarchy/
+runs/
+.vscode/
+acc_reward.npy
+achieved_sequences.txt
+common_transitions.txt
+realizable_stimulus.npy
+rewarded.txt
+selected_objectives.txt
+basal_ganglia/results/*
+

@@ -1,0 +1,14 @@
+matplotlib
+lxml
+PyOpenGL
+PyOpenGL_accelerate
+scipy
+pyqt5
+PyQtGraph
+pandoc
+tensorboardX
+ANNarchy
+pandas
+click
+statsmodels
+scikit-learn
